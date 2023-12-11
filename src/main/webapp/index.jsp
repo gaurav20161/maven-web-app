@@ -87,17 +87,9 @@
       <!-- Add other education and certifications -->
     </div>
 
-    <div class="section">
-      <h2>Work Experience</h2>
-      <h3>Windows Server/Cloud Consultant - Long View Systems (Dec 2021 – present)</h3>
-      <!-- Add work experience details -->
-    </div>
+ 
 
-    <div class="section">
-      <h2>Projects</h2>
-      <h3>Registration App</h3>
-      <!-- Add project details -->
-    </div>
+  
   </div>
 </body>
 </html>
