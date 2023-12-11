@@ -81,16 +81,18 @@
       <!-- Add other technical skills -->
     </div>
 
-    <div class="section">
+  
+      
+   <div class="section">
       <h2>Project</h2>
-      <h3>CI/CD of Maven web app using Jenkins:
-         <li>Developed Simple web app using Maven in Java and pushed code to Github</li>
-         <li>Provisioned an AWS EC2 instance and configured the installation of the Tomcat server for web application hosting</li>
-         <li>Established a separate AWS EC2 instance and deployed Jenkins for continuous integration and continuous deployment (CI/CD) purposes.</li>
+      <ul class="list-items">
+        <li>Developed Simple web app using Maven in Java and pushed code to Github</li>
+        <!-- Add other qualifications -->
+        <li>Provisioned an AWS EC2 instance and configured the installation of the Tomcat server for web application hosting</li>
+        <li>Established a separate AWS EC2 instance and deployed Jenkins for continuous integration and continuous deployment (CI/CD) purposes</li>
         <li>Engineered and executed a streamlined pipeline within Jenkins to automate the entire build and deployment process of the web application onto the Tomcat server situated on an AWS EC2 instance</li>
-      </h3>
+      </ul>
     </div>
-
  
 
   
