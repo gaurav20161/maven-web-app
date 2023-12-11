@@ -63,17 +63,6 @@
       <p>(403) 399-8433 | gauravnit2016@gmail.com | <a href="https://github.com/">Github</a> | <a href="https://www.linkedin.com/">LinkedIn Profile</a></p>
     </header>
 
-    <div class="section">
-      <h2>Summary of Qualifications</h2>
-      <ul class="list-items">
-        <li>Proficient in Java, JavaScript, SQL and Python for scripting and programming purposes.</li>
-        <!-- Add other qualifications -->
-        <li>Experienced in Java Back-end development utilizing Spring Core, Spring MVC, and Spring Boot frameworks, Microservices, RESTFUL APIs</li>
-        <li>Good knowledge of Ansible as configuration management tool.</li>
-        <li>Work Authorization &ndash;  Canadian Citizen</li>
-        <li>Knowledge of Microsoft Azure- Azure functions, Cosmos DB, Azure App Service webapps</li>
-      </ul>
-    </div>
    <div>
       <h1>Projects</h1>
       <h2>CI/CD of Maven web app using Jenkins:</h2> 
