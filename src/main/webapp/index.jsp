@@ -75,12 +75,30 @@
       </ul>
     </div>
 
-    <div class="section">
-      <h2>Technical Skills</h2>
-      <p>Tools: Git and GitHub, Ansible, Eclipse, Visual Studio</p>
-      <!-- Add other technical skills -->
-    </div>
+  <h1>Projects</h1>
 
+  <h2>CI/CD of Maven web app using Jenkins:</h2>
+  
+  <h3>Source Code</h3>
+  <ul>
+    <li>Developed Simple web app using Maven in Java and pushed code to Github.</li>
+  </ul>
+
+  <h3>Provisioned AWS EC2 Instance and Tomcat Server</h3>
+  <ul>
+    <li>Provisioned an AWS EC2 instance and configured the installation of the Tomcat server for web application hosting.</li>
+  </ul>
+
+  <h3>Jenkins for CI/CD</h3>
+  <ul>
+    <li>Established a separate AWS EC2 instance and deployed Jenkins for continuous integration and continuous deployment (CI/CD) purposes.</li>
+  </ul>
+
+  <h3>Automated Build and Deployment Pipeline</h3>
+  <ul>
+    <li>Engineered and executed a streamlined pipeline within Jenkins to automate the entire build and deployment process of the web application onto the Tomcat server situated on an AWS EC2 instance.</li>
+  </ul>
+  
   
       
    <div class="section">
