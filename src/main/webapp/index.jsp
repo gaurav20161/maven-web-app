@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gaurav Kumar -Long View Systems- Resume</title>
+  <title>Gaurav Kumar</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -59,7 +59,7 @@
 <body>
   <div class="container">
     <header>
-      <h1>Gaurav Kumar -Server Consultant</h1>
+      <h1>Gaurav Kumar -Server/Cloud Consultant</h1>
       <p>(403) 399-8433 | gauravnit2016@gmail.com | <a href="https://github.com/">Github</a> | <a href="https://www.linkedin.com/">LinkedIn Profile</a></p>
     </header>
 
