@@ -69,7 +69,7 @@
 </head>
 <body>
   <!-- Image tag for the profile picture -->
-  <img class="profile-img" src="url_to_your_image.jpg" alt="Profile Picture">
+  <img class="profile-img" src="pic.JPG" alt="Profile Picture">
 
   <div class="container">
     <header>
