@@ -64,7 +64,7 @@
     </header>
 
    <div>
-      <h2>Projects</h2>
+      <h2>Projects (Hands-on Experience)</h2>
       <h3>CI/CD of Maven web app using Jenkins:</h3> 
       <ul class="list-items">
         <li>Developed Simple web app using Maven in Java and pushed code to Github</li>
