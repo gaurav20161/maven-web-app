@@ -73,7 +73,7 @@
 
   <div class="container">
     <header>
-      <h1>Gaurav Kumar -IGS Calgary</h1>
+      <h1>Gaurav Kumar -IGS Calgary/Vancouver</h1>
       <p>(403) 399-8433 | gaurav.kumar@lvs1.com | <a href="https://github.com/">Github</a> | <a href="https://www.linkedin.com/">LinkedIn Profile</a></p>
     </header>
 
