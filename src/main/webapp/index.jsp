@@ -57,7 +57,7 @@
   .profile-img {
       position: absolute;
       top: 20px; /* Adjust top position */
-      right: 40px; /* Adjust right position */
+      right: 70px; /* Adjust right position */
       width: 80mm;
       height:80mm;
       border-radius: 5px;
