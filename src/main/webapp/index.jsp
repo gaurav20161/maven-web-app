@@ -54,11 +54,23 @@
     .list-items li {
       margin-bottom: 5px;
     }
+   .profile-img {
+      float: right;
+      margin: 0 0 20px 20px; /* Adjust margins as needed */
+      width: 308px;
+      height: 216px;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+
+
   </style>
 </head>
 <body>
   <div class="container">
     <header>
+
+      <img class="profile-img" src="path/to/your/image.jpg" alt="Profile Picture">
       <h2>Gaurav Kumar - IGS Calgary (Automation Apprenticeship Candidate)</h2>
 
       <h3><p>(403) 399-8433 | gaurav.kumar@lvs1.com | <a href="https://github.com/gaurav20161/">Github</a> | <a href="https://ca.linkedin.com/in/gaurav-kumar-2016">LinkedIn Profile</a></p> </h3>
