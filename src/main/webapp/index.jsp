@@ -12,6 +12,7 @@
       padding: 20px;
       background-color: #f4f4f4;
       color: #333;
+      position: relative; /* To position the image */
     }
     .container {
       max-width: 800px;
@@ -54,49 +55,38 @@
     .list-items li {
       margin-bottom: 5px;
     }
+    /* Style for the image */
+    .profile-img {
+      position: absolute;
+      top: 20px; /* Adjust top position as needed */
+      right: 20px; /* Adjust right position as needed */
+      width: 100px; /* Set width */
+      height: auto; /* Maintain aspect ratio */
+      border-radius: 50%; /* For a circular image */
+      border: 2px solid #ccc; /* Border style */
+    }
   </style>
 </head>
 <body>
+  <!-- Image tag for the profile picture -->
+  <img class="profile-img" src="url_to_your_image.jpg" alt="Profile Picture">
+
   <div class="container">
     <header>
-      <h1>Gaurav Kumar -Server Consultant</h1>
-      <p>(403) 399-8433 | gauravnit2016@gmail.com | <a href="https://github.com/">Github</a> | <a href="https://www.linkedin.com/">LinkedIn Profile</a></p>
+      <h1>Gaurav Kumar -IGS Calgary</h1>
+      <p>(403) 399-8433 | gaurav.kumar@lvs1.com | <a href="https://github.com/">Github</a> | <a href="https://www.linkedin.com/">LinkedIn Profile</a></p>
     </header>
 
-    <div class="section">
-      <h2>Summary of Qualifications</h2>
+    <div>
+      <h1>Projects</h1>
+      <h2>CI/CD of Maven web app using Jenkins:</h2> 
       <ul class="list-items">
-        <li>Proficient in Java, JavaScript, SQL and Python for scripting and programming purposes.</li>
+        <li>Developed Simple web app using Maven in Java and pushed code to Github</li>
         <!-- Add other qualifications -->
-        <li>Experienced in Java Back-end development utilizing Spring Core, Spring MVC, and Spring Boot frameworks, Microservices, RESTFUL APIs</li>
-        <li>Good knowledge of Ansible as configuration management tool.</li>
-        <li>Work Authorization &ndash;  Canadian Citizen</li>
-        <li>Knowledge of Microsoft Azure- Azure functions, Cosmos DB, Azure App Service webapps</li>
+        <li>Provisioned an AWS EC2 instance and configured the installation of the  <a href="http://52.14.90.19:8080/">Tomcat server</a>  for web application hosting</li>
+        <li>Established a separate   <a href="http://52.14.156.118:8080/">AWS EC2 instance</a> and deployed Jenkins for continuous integration and continuous deployment (CI/CD) purposes</li>
+        <li>Engineered and executed a streamlined pipeline within Jenkins to automate the entire build and deployment process of the web application onto the Tomcat server</li>
       </ul>
-    </div>
-
-    <div class="section">
-      <h2>Technical Skills</h2>
-      <p>Tools: Git and GitHub, Ansible, Eclipse, Visual Studio</p>
-      <!-- Add other technical skills -->
-    </div>
-
-    <div class="section">
-      <h2>Education & Certifications</h2>
-      <h3>Developing Solutions for Microsoft Azure – AZ-204 (Expected Jan 2024)</h3>
-      <!-- Add other education and certifications -->
-    </div>
-
-    <div class="section">
-      <h2>Work Experience</h2>
-      <h3>Windows Server/Cloud Consultant - Long View Systems (Dec 2021 – present)</h3>
-      <!-- Add work experience details -->
-    </div>
-
-    <div class="section">
-      <h2>Projects</h2>
-      <h3>Registration App</h3>
-      <!-- Add project details -->
     </div>
   </div>
 </body>
