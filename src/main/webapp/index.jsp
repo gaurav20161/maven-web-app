@@ -81,7 +81,7 @@
       <h2>Projects (Hands-on Experience)</h2>
       <h3>CI/CD of Maven web app using Jenkins:</h3> 
       <ul class="list-items">
-        <li>Developed Simple web app (<a href="https://github.com/gaurav20161/maven-web-app.git"> Source code</a>) using Maven in Java and pushed code to Github</li>
+        <li>Developed Simple web app (<a href="https://github.com/gaurav20161/maven-web-app.git">Source code</a>) using Maven in Java and pushed code to Github</li>
         <!-- Add other qualifications -->
         <li>Provisioned an AWS EC2 instance and configured the installation of the  <a href="http://52.14.90.19:8080/">Tomcat server</a>  for web application hosting</li>
         <li>Established a separate   <a href="http://52.14.156.118:8080/">AWS EC2 instance</a> and deployed Jenkins for continuous integration and continuous deployment (CI/CD) purposes</li>
