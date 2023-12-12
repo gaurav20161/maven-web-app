@@ -70,7 +70,7 @@
   <div class="container">
     <header>
 
-      <img class="profile-img" src="path/to/your/image.jpg" alt="Profile Picture">
+      <img class="profile-img" src="Capture.JPG" alt="Profile Picture">
       <h2>Gaurav Kumar - IGS Calgary (Automation Apprenticeship Candidate)</h2>
 
       <h3><p>(403) 399-8433 | gaurav.kumar@lvs1.com | <a href="https://github.com/gaurav20161/">Github</a> | <a href="https://ca.linkedin.com/in/gaurav-kumar-2016">LinkedIn Profile</a></p> </h3>
