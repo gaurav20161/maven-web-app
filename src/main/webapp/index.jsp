@@ -55,10 +55,11 @@
       margin-bottom: 5px;
     }
    .profile-img {
-      float: right;
-      margin: 0 0 20px 20px; /* Adjust margins as needed */
-      width: 3080px;
-      height: 2160px;
+      position: absolute;
+      top: 20px; /* Adjust top position */
+      left: 20px; /* Adjust left position */
+      width: 210mm; /* A4 width */
+      height: 297mm; /* A4 height */
       border-radius: 5px;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
     }
