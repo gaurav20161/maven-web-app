@@ -59,13 +59,13 @@
 <body>
   <div class="container">
     <header>
-      <h1>Gaurav Kumar - IGS Calgary/Vancouver</h1>
+      <h2>Gaurav Kumar - IGS Calgary/Vancouver</h2>
       <p>(403) 399-8433 | gaurav.kumar@lvs1.com | <a href="https://github.com/gaurav20161/">Github</a> | <a href="https://ca.linkedin.com/in/gaurav-kumar-2016">LinkedIn Profile</a></p>
     </header>
 
    <div>
-      <h1>Projects</h1>
-      <h2>CI/CD of Maven web app using Jenkins:</h2> 
+      <h2>Projects</h2>
+      <h3>CI/CD of Maven web app using Jenkins:</h3> 
       <ul class="list-items">
         <li>Developed Simple web app using Maven in Java and pushed code to Github</li>
         <!-- Add other qualifications -->
