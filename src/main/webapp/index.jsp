@@ -57,7 +57,7 @@
     .profile-img {
       float: right;
       margin: 0 0 20px 20px; /* Adjust margins as needed */
-      width: 216px;
+      width: 250px;
       height: 250px;
       border-radius: 5px;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
