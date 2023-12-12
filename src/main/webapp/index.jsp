@@ -14,7 +14,7 @@
       color: #333;
     }
     .container {
-      max-width: 800px;
+      max-width: 1600px;
       margin: auto;
       background-color: #fff;
       padding: 20px;
