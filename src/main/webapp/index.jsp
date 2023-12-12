@@ -54,12 +54,11 @@
     .list-items li {
       margin-bottom: 5px;
     }
-  .profile-img {
-      position: absolute;
-      top: 20px; /* Adjust top position */
-      right: 70px; /* Adjust right position */
-      width: 80mm;
-      height:80mm;
+    .profile-img {
+      float: right;
+      margin: 0 0 20px 20px; /* Adjust margins as needed */
+      width: 308px;
+      height: 216px;
       border-radius: 5px;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
     }
