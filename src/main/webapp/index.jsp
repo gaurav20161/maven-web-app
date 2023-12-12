@@ -58,8 +58,8 @@
       position: absolute;
       top: 20px; /* Adjust top position */
       right: 20px; /* Adjust right position */
-      width: 50mm;
-      height: 50mm;
+      width: 100mm;
+      height: 100mm;
       border-radius: 5px;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
     }
