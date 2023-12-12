@@ -12,7 +12,6 @@
       padding: 20px;
       background-color: #f4f4f4;
       color: #333;
-      position: relative; /* To position the image */
     }
     .container {
       max-width: 800px;
@@ -55,29 +54,16 @@
     .list-items li {
       margin-bottom: 5px;
     }
-    /* Style for the image */
-    .profile-img {
-      position: absolute;
-      top: 20px; /* Adjust top position as needed */
-      right: 20px; /* Adjust right position as needed */
-      width: 100px; /* Set width */
-      height: auto; /* Maintain aspect ratio */
-      border-radius: 50%; /* For a circular image */
-      border: 2px solid #ccc; /* Border style */
-    }
   </style>
 </head>
 <body>
-  <!-- Image tag for the profile picture -->
-  <img class="profile-img" src="pic.JPG" alt="Profile Picture">
-
   <div class="container">
     <header>
       <h1>Gaurav Kumar -IGS Calgary</h1>
       <p>(403) 399-8433 | gaurav.kumar@lvs1.com | <a href="https://github.com/">Github</a> | <a href="https://www.linkedin.com/">LinkedIn Profile</a></p>
     </header>
 
-    <div>
+   <div>
       <h1>Projects</h1>
       <h2>CI/CD of Maven web app using Jenkins:</h2> 
       <ul class="list-items">
@@ -88,6 +74,9 @@
         <li>Engineered and executed a streamlined pipeline within Jenkins to automate the entire build and deployment process of the web application onto the Tomcat server</li>
       </ul>
     </div>
+ 
+
+  
   </div>
 </body>
 </html>
