@@ -83,9 +83,9 @@
     </div>
 
 
-  <h1>Skills and Tools</h1>
+  <h2>Skills and Tools</h1>
 
-  <h2>Tools</h2>
+  <h3>Tools</h2>
   <table>
     <tr>
       <td>Git and GitHub</td>
@@ -96,7 +96,7 @@
     </tr>
   </table>
 
-  <h2>Languages</h2>
+  <h3>Languages</h2>
   <table>
     <tr>
       <td>Core Java</td>
@@ -109,7 +109,7 @@
     </tr>
   </table>
 
-  <h2>Frameworks</h2>
+  <h3>Frameworks</h2>
   <table>
     <tr>
       <td>Spring</td>
@@ -121,21 +121,21 @@
     </tr>
   </table>
 
-  <h2>RDBMS</h2>
+  <h3>RDBMS</h2>
   <table>
     <tr>
       <td>MySQL (MySQL Workbench 8.0 CE, MySQL CLI 8.0)</td>
     </tr>
   </table>
 
-  <h2>Project Management</h2>
+  <h3>Project Management</h2>
   <table>
     <tr>
       <td>Agile</td>
     </tr>
   </table>
 
-  <h2>Operating Systems</h2>
+  <h3>Operating Systems</h2>
   <table>
     <tr>
       <td>Windows</td>
@@ -144,7 +144,7 @@
     </tr>
   </table>
 
-  <h2>Applications & Tools</h2>
+  <h3>Applications & Tools</h2>
   <table>
     <tr>
       <td>Microsoft Azure</td>
