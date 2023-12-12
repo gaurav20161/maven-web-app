@@ -59,7 +59,7 @@
 <body>
   <div class="container">
     <header>
-      <h2>Gaurav Kumar - IGS Calgary</h2>
+      <h2>Gaurav Kumar - IGS Calgary Automation</h2>
       <p>(403) 399-8433 | gaurav.kumar@lvs1.com | <a href="https://github.com/gaurav20161/">Github</a> | <a href="https://ca.linkedin.com/in/gaurav-kumar-2016">LinkedIn Profile</a></p>
     </header>
 
