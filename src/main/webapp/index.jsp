@@ -54,15 +54,16 @@
     .list-items li {
       margin-bottom: 5px;
     }
-   .profile-img {
+  .profile-img {
       position: absolute;
       top: 20px; /* Adjust top position */
-      left: 20px; /* Adjust left position */
-      width: 210mm; /* A4 width */
-      height: 297mm; /* A4 height */
+      right: 20px; /* Adjust right position */
+      width: 50mm;
+      height: 50mm;
       border-radius: 5px;
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
     }
+
 
 
   </style>
