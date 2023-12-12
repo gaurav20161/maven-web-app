@@ -81,7 +81,78 @@
         <li>Provisioned an AWS EC2 instance and configured the installation of the  <a href="http://52.14.90.19:8080/">Tomcat server</a>  for web application hosting</li>    
       </ul>
     </div>
- 
+
+
+  <h1>Skills and Tools</h1>
+
+  <h2>Tools</h2>
+  <table>
+    <tr>
+      <td>Git and GitHub</td>
+      <td>Ansible</td>
+      <td>Jenkins (CI/CD)</td>
+      <td>Eclipse</td>
+      <td>Visual Studio</td>
+    </tr>
+  </table>
+
+  <h2>Languages</h2>
+  <table>
+    <tr>
+      <td>Core Java</td>
+      <td>JSP</td>
+      <td>Servlets</td>
+      <td>Python</td>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>jQuery</td>
+    </tr>
+  </table>
+
+  <h2>Frameworks</h2>
+  <table>
+    <tr>
+      <td>Spring</td>
+      <td>Spring MVC</td>
+      <td>Spring Boot</td>
+      <td>Microservices</td>
+      <td>RESTFUL APIs</td>
+      <td>API testing</td>
+    </tr>
+  </table>
+
+  <h2>RDBMS</h2>
+  <table>
+    <tr>
+      <td>MySQL (MySQL Workbench 8.0 CE, MySQL CLI 8.0)</td>
+    </tr>
+  </table>
+
+  <h2>Project Management</h2>
+  <table>
+    <tr>
+      <td>Agile</td>
+    </tr>
+  </table>
+
+  <h2>Operating Systems</h2>
+  <table>
+    <tr>
+      <td>Windows</td>
+      <td>Linux</td>
+      <td>CentOS</td>
+    </tr>
+  </table>
+
+  <h2>Applications & Tools</h2>
+  <table>
+    <tr>
+      <td>Microsoft Azure</td>
+      <td>ServiceNow</td>
+      <td>Remedy</td>
+      <td>Microsoft Office 365</td>
+    </tr>
+  </table>
 
   
   </div>
