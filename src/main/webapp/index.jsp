@@ -84,7 +84,7 @@
         <li>Developed Simple web app using Maven in Java and pushed code to Github</li>
         <!-- Add other qualifications -->
         <li>Provisioned an AWS EC2 instance and configured the installation of the  <a href="http://52.14.90.19:8080/">Tomcat server</a>  for web application hosting</li>
-        <li>Established a separate   <a href="http://52.14.156.118:8080/">AWS EC2 instance</a> and deployed Jenkins for continuous integration and continuous deployment (CI/CD) purposes</li>
+        <li>Established a separate   <a href="http://18.225.206.168:8080/">AWS EC2 instance</a> and deployed Jenkins for continuous integration and continuous deployment (CI/CD) purposes</li>
         <li>Engineered and executed a streamlined pipeline within Jenkins to automate the entire build and deployment process of the web application onto the Tomcat server</li>
       </ul>
     </div>
