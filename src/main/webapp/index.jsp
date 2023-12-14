@@ -90,9 +90,13 @@
 
       <h3>Ansible:</h3> 
       <ul class="list-items">
-        <li>Developed Simple web app using Maven in Java and pushed code to Github</li>
+        <li>Orchestrated the setup of 4 CentOS-based VMs within Oracle VM VirtualBox Manager</li>
         <!-- Add other qualifications -->
-        <li>Provisioned an AWS EC2 instance and configured the installation of the  <a href="http://52.14.90.19:8080/">Tomcat server</a>  for web application hosting</li>    
+        <li>Implemented a NatNetwork configuration, enabling exclusive communication among the VMs and internet access</li>    
+        <li>Created one VM as Control node by installing and configuring Ansible and rest other nodes as Managed nodes</li> 
+        <li>Implemented secure SSH keyless authentication, ensuring seamless communication between the Control node and all Managed nodes</li>    
+        <li>Constructed and managed an Inventory list containing details of the 3 Managed hosts, securely stored on the Control node, and meticulously configured the ansible.cfg file for optimized operations</li>
+        <li>Executed diverse AD Hoc commands and Playbooks with precision, achieving successful outcomes in orchestration and automation tasks</li>
       </ul>
     </div>
 
