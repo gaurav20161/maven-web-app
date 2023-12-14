@@ -107,9 +107,9 @@
  <p>RDBMS: MySQL (MySQL Workbench 8.0 CE, MySQL CLI 8.0)</p>
  <p>Version Control: Git using GitHub</p>
  <p>API manual testing: Postman</p>
- <p>Tools: Visual Studio Code, Service Now, Remedy, Microsoft Azure (3 yrs experience), Azure DevOps</p>
+ <p>Tools: Visual Studio Code, Service Now, Remedy, Azure DevOps</p>
  <p>Automation: Ansible, Jenkins (for CI/CD), 1DESK</p>
- <p>Cloud: Microsoft Azure, AWS</p>
+ <p>Cloud: Microsoft Azure (3 yrs experience), AWS</p>
  <p>OS: Windows, Linux Distributions - Ubuntu, CentOS</p>
  <p>Data Structures and Algorithms, Active Directory, Azure Active Directory, Citrix, Microsoft Office 365 Admin center, RESTFUL APIs</p>
 
