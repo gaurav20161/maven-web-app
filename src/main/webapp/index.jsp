@@ -102,7 +102,7 @@
 
 
   <h2>Skills and Tools</h1>
-  <p>Languages: Java, JSP, Python, JavaScript, HTML, CSS, JSON, Groovy</p>
+  <p>Languages: Java, JSP, Python, JavaScript, HTML, CSS, JSON, YAML, Groovy</p>
  <p>Frameworks: Spring, Spring MVC, Spring Boot, Maven</p>
  <p>RDBMS: MySQL (MySQL Workbench 8.0 CE, MySQL CLI 8.0)</p>
  <p>Version Control: Git using GitHub</p>
