@@ -88,7 +88,7 @@
         <li>Engineered and executed a streamlined pipeline within Jenkins to automate the entire build and deployment process of the web application onto the Tomcat server</li>
       </ul>
 
-      <h3>Ansible:</h3> 
+      <h3>Ansible Automation Infrastructure Implementation:</h3> 
       <ul class="list-items">
         <li>Orchestrated the setup of 4 CentOS-based VMs within Oracle VM VirtualBox Manager</li>
         <!-- Add other qualifications -->
