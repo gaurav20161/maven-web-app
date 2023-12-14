@@ -102,18 +102,17 @@
 
 
   <h2>Skills and Tools</h1>
-  Tech Stack:
+  <p>Languages: Java, JSP, Python, JavaScript, HTML, CSS, JSON, Groovy</p>
+ <p>Frameworks: Spring, Spring MVC, Spring Boot, Maven</p>
+ <p>RDBMS: MySQL (MySQL Workbench 8.0 CE, MySQL CLI 8.0)</p>
+ <p>Version Control: Git using GitHub</p>
+ <p>API manual testing: Postman</p>
+ <p>Tools: Visual Studio Code, Service Now, Remedy, Microsoft Azure (3 yrs experience), Azure DevOps</p>
+ <p>Automation: Ansible, Jenkins (for CI/CD), 1DESK</p>
+ <p>Cloud: Microsoft Azure, AWS</p>
+ <p>OS: Windows, Linux Distributions - Ubuntu, CentOS</p>
+ <p>Data Structures and Algorithms, Active Directory, Azure Active Directory, Citrix, Microsoft Office 365 Admin center, RESTFUL APIs</p>
 
-  Languages : Java, JSP, Python, JavaScript, HTML, CSS, JSON, Groovy
-  Frameworks: Spring, Spring MVC, Spring Boot, Maven
-  RDBMS : MySQL (MySQL Workbench 8.0 CE, MySQL CLI 8.0)
-  Version Control : Git using GitHub
-  API manual testing: Postman
-  Tools: Visual Studio Code, Service Now, Remedy, Microsoft Azure (3 yrs experience), Azure DevOps
-  Automation: Ansible, Jenkins (for CI/CD), 1DESK
-  Cloud: Microsoft Azure, AWS
-  OS: Windows, Linux Distributions- Ubuntu, CentOS
-  Data Structures and Algorithms, Active directory, Azure Active Directory, Citrix, Microsoft Office 365 Admin center, RESTFUL APIs
   
 
   
