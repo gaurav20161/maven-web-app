@@ -95,7 +95,7 @@
         <li>Implemented a NatNetwork configuration, enabling exclusive communication among the VMs and internet access</li>    
         <li>Created one VM as Control node by installing and configuring Ansible and rest other nodes as Managed nodes</li> 
         <li>Implemented secure SSH keyless authentication, ensuring seamless communication between the Control node and all Managed nodes</li>    
-        <li>Constructed and managed an Inventory list containing details of the 3 Managed hosts, securely stored on the Control node, and meticulously configured the ansible.cfg file for optimized operations</li>
+        <li>Constructed and managed a STATIC Inventory list containing details of the 3 Managed hosts, securely stored on the Control node, and meticulously configured the ansible.cfg file for optimized operations</li>
         <li>Executed diverse AD Hoc commands and Playbooks with precision, achieving successful outcomes in orchestration and automation tasks</li>
       </ul>
     </div>
