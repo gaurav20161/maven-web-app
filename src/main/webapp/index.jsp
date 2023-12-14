@@ -102,75 +102,19 @@
 
 
   <h2>Skills and Tools</h1>
+  Tech Stack:
 
-  <h3>Tools</h2>
-  <table>
-    <tr>
-      <td>Git and GitHub</td>
-      <td>Ansible</td>
-      <td>Jenkins (CI/CD)</td>
-      <td>Eclipse</td>
-      <td>Visual Studio</td>
-    </tr>
-  </table>
-
-  <h3>Languages</h2>
-  <table>
-    <tr>
-      <td>Core Java</td>
-      <td>JSP</td>
-      <td>Servlets</td>
-      <td>Python</td>
-      <td>HTML</td>
-      <td>CSS</td>
-      <td>jQuery</td>
-    </tr>
-  </table>
-
-  <h3>Frameworks</h2>
-  <table>
-    <tr>
-      <td>Spring</td>
-      <td>Spring MVC</td>
-      <td>Spring Boot</td>
-      <td>Microservices</td>
-      <td>RESTFUL APIs</td>
-      <td>API testing</td>
-    </tr>
-  </table>
-
-  <h3>RDBMS</h2>
-  <table>
-    <tr>
-      <td>MySQL (MySQL Workbench 8.0 CE, MySQL CLI 8.0)</td>
-    </tr>
-  </table>
-
-  <h3>Project Management</h2>
-  <table>
-    <tr>
-      <td>Agile</td>
-    </tr>
-  </table>
-
-  <h3>Operating Systems</h2>
-  <table>
-    <tr>
-      <td>Windows</td>
-      <td>Linux</td>
-      <td>CentOS</td>
-    </tr>
-  </table>
-
-  <h3>Applications & Tools</h2>
-  <table>
-    <tr>
-      <td>Microsoft Azure</td>
-      <td>ServiceNow</td>
-      <td>Remedy</td>
-      <td>Microsoft Office 365</td>
-    </tr>
-  </table>
+  Languages : Java, JSP, Python, JavaScript, HTML, CSS, JSON, Groovy
+  Frameworks: Spring, Spring MVC, Spring Boot, Maven
+  RDBMS : MySQL (MySQL Workbench 8.0 CE, MySQL CLI 8.0)
+  Version Control : Git using GitHub
+  API manual testing: Postman
+  Tools: Visual Studio Code, Service Now, Remedy, Microsoft Azure (3 yrs experience), Azure DevOps
+  Automation: Ansible, Jenkins (for CI/CD), 1DESK
+  Cloud: Microsoft Azure, AWS
+  OS: Windows, Linux Distributions- Ubuntu, CentOS
+  Data Structures and Algorithms, Active directory, Azure Active Directory, Citrix, Microsoft Office 365 Admin center, RESTFUL APIs
+  
 
   
   </div>
